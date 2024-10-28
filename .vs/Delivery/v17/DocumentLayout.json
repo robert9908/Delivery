@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\testtask\\Delivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\repositories\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\repositories\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\logging\\filteredorderslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\logging\\filteredorderslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\migrations\\20241022100906_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\migrations\\20241022100906_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\migrations\\deliverydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\migrations\\deliverydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\models\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\models\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1465C0F7-9062-494A-9519-033245849E93}|Delivery.Tests\\Delivery.Tests.csproj|d:\\testtask\\delivery\\delivery.tests\\orderscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1465C0F7-9062-494A-9519-033245849E93}|Delivery.Tests\\Delivery.Tests.csproj|solutionrelative:delivery.tests\\orderscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1465C0F7-9062-494A-9519-033245849E93}|Delivery.Tests\\Delivery.Tests.csproj|d:\\testtask\\delivery\\delivery.tests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1465C0F7-9062-494A-9519-033245849E93}|Delivery.Tests\\Delivery.Tests.csproj|solutionrelative:delivery.tests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\logging\\sqlserverloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\logging\\sqlserverloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\models\\dto\\addorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\models\\dto\\addorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\models\\dto\\updateorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\models\\dto\\updateorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\data\\deliverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\data\\deliverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\delivery.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\delivery.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|d:\\testtask\\delivery\\delivery\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB8497-5A33-4C63-BEE9-1749BA95CA37}|Delivery\\Delivery.API.csproj|solutionrelative:delivery\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Models\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Delivery\\Models\\Domain\\Order.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Models\\Domain\\Order.cs",
+              "RelativeToolTip": "Delivery\\Models\\Domain\\Order.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:18:10.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Delivery\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Delivery\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:23:00.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Models\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Delivery\\Models\\DTO\\OrderDto.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Models\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "Delivery\\Models\\DTO\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:42:26.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241022100906_Initial Migration.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Migrations\\20241022100906_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Delivery\\Migrations\\20241022100906_Initial Migration.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Migrations\\20241022100906_Initial Migration.cs",
+              "RelativeToolTip": "Delivery\\Migrations\\20241022100906_Initial Migration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:09:06.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilteredOrdersLogger.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Logging\\FilteredOrdersLogger.cs",
+              "RelativeDocumentMoniker": "Delivery\\Logging\\FilteredOrdersLogger.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Logging\\FilteredOrdersLogger.cs",
+              "RelativeToolTip": "Delivery\\Logging\\FilteredOrdersLogger.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwDcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:48:15.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLOrderRepository.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Repositories\\SQLOrderRepository.cs",
+              "RelativeDocumentMoniker": "Delivery\\Repositories\\SQLOrderRepository.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Repositories\\SQLOrderRepository.cs",
+              "RelativeToolTip": "Delivery\\Repositories\\SQLOrderRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:46:56.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersControllerTests.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery.Tests\\OrdersControllerTests.cs",
+              "RelativeDocumentMoniker": "Delivery.Tests\\OrdersControllerTests.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery.Tests\\OrdersControllerTests.cs",
+              "RelativeToolTip": "Delivery.Tests\\OrdersControllerTests.cs",
+              "ViewState": "AQIAAEEBAAAAAAAAAAAowKMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:27:30.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Migrations\\DeliveryDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Delivery\\Migrations\\DeliveryDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Migrations\\DeliveryDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Delivery\\Migrations\\DeliveryDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:23:10.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlServerLoggerProvider.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Logging\\SqlServerLoggerProvider.cs",
+              "RelativeDocumentMoniker": "Delivery\\Logging\\SqlServerLoggerProvider.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Logging\\SqlServerLoggerProvider.cs",
+              "RelativeToolTip": "Delivery\\Logging\\SqlServerLoggerProvider.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwvxIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:37:54.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderTests.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery.Tests\\OrderTests.cs",
+              "RelativeDocumentMoniker": "Delivery.Tests\\OrderTests.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery.Tests\\OrderTests.cs",
+              "RelativeToolTip": "Delivery.Tests\\OrderTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:11:07.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateOrderRequestDto.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Models\\DTO\\UpdateOrderRequestDto.cs",
+              "RelativeDocumentMoniker": "Delivery\\Models\\DTO\\UpdateOrderRequestDto.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Models\\DTO\\UpdateOrderRequestDto.cs",
+              "RelativeToolTip": "Delivery\\Models\\DTO\\UpdateOrderRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:27:30.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddOrderRequestDto.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Models\\DTO\\AddOrderRequestDto.cs",
+              "RelativeDocumentMoniker": "Delivery\\Models\\DTO\\AddOrderRequestDto.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Models\\DTO\\AddOrderRequestDto.cs",
+              "RelativeToolTip": "Delivery\\Models\\DTO\\AddOrderRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:11:08.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Delivery\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Delivery\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:01:49.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryDbContext.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Data\\DeliveryDbContext.cs",
+              "RelativeDocumentMoniker": "Delivery\\Data\\DeliveryDbContext.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Data\\DeliveryDbContext.cs",
+              "RelativeToolTip": "Delivery\\Data\\DeliveryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:48:28.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "Delivery\\Program.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Program.cs",
+              "RelativeToolTip": "Delivery\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwB8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:57:39.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delivery.http",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Delivery.http",
+              "RelativeDocumentMoniker": "Delivery\\Delivery.http",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Delivery.http",
+              "RelativeToolTip": "Delivery\\Delivery.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-27T08:42:32.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\appsettings.json",
+              "RelativeDocumentMoniker": "Delivery\\appsettings.json",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\appsettings.json",
+              "RelativeToolTip": "Delivery\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T09:49:58.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\testtask\\Delivery\\Delivery\\Mapping\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Delivery\\Mapping\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\testtask\\Delivery\\Delivery\\Mapping\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Delivery\\Mapping\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:05:26.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
